@@ -9,7 +9,8 @@
 
 - 🔭 I’m currently working on React Projects.
 - 🌱 I’m currently learning Back-end web development.
-- 👯 I’m looking to collaborate on web projects.
+- 🌱 I’m currently learning Machine Learning.
+- 👯 I’m looking to collaborate on web and AI projects.
 - 📫 How to reach me:sahar.youssef@ieee.org
 
 
