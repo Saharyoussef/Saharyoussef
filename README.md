@@ -28,12 +28,15 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-- 🔭 I’m currently working on full stack Projects.
-- 🌱 I’m currently learning Generative AI and LLM.
-- 🌱 I’m currently learning devOps.
-- 👯 I’m looking to collaborate on web and AI projects.
-- 📫 How to reach me:sahar.youssef@ieee.org
-- 📫 Visit my Portfolio : https://youssefsahar.com/
+🔭 I’m currently working on Full Stack and AI-driven applications.
+
+🤖 Actively building projects in Machine Learning, Deep Learning, NLP, and Computer Vision.
+
+🌱 I’m currently diving deeper into DevOps and MLOps to automate and scale AI workflows.
+
+🤝 I’m open to collaboration on AI/ML, full stack, and cloud-native projects.
+
+📫 Visit my Portfolio : https://sahar-youssef-portfolio.vercel.app/
   
 
 
